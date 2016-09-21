@@ -12,6 +12,6 @@ This Source is Free to look at and learn from, But not Free to Distribute, use, 
 
 ##PROJECT INFO
 
-| TERM  |  Type  |
-|:-------:|:--------:|
-| F2016 | ??? |
+| **Term**  |  **Type** |
+|:-------:  |:--------: |
+| Fall 2016 | ???       |
