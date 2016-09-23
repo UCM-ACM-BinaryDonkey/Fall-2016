@@ -1,0 +1,13 @@
+//Skills
+
+//Start Template:
+
+Skillname
+{
+  Cost: 
+  Effect:
+  LvlRequirement:
+}
+
+//End Template
+//Start Concept
