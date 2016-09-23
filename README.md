@@ -12,6 +12,6 @@ This Source is Free to look at and learn from, But not Free to Distribute, use, 
 
 ##PROJECT INFO
 
-| **Term**  |  **Type** |
-|:-------:  |:--------: |
-| Fall 2016 | ???       |
+| **Term**  |  **Type** |  **Perspective** |  **Character** |
+|:-------:  |:--------: |:-------:         |:--------: |
+| Fall 2016 |   RPG     | Top Down         |    Chicken      |
