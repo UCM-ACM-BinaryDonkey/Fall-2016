@@ -1,17 +1,12 @@
 //NPC Template
 //
 
-
-
 NPC
 {
   Name: {String}
   Sprite
   {
-    Hair:
-    Chest:
-    Leg:
-    Misc:
+    //Sprite Template
   }
   
   Type: {Merchant,Quest,subQuest,GoalQuest,...}
