@@ -1,4 +1,30 @@
-Story 
+Story
+{
+  Setting
+  {
+    Main Hero:
+    Main Villian:
+    Place:
+    Time Period:
+    
+  }
+  
+  start
+  {
+    
+  }
+  Mid
+  {
+    MainQuestline
+    {
+      
+    }
+  }
+  end
+  {
+    
+  }
+}
 
 Main Bad Guy a Fox
 
