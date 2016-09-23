@@ -1,0 +1,34 @@
+//NPC Template
+//
+
+
+
+NPC
+{
+  Name: {String}
+  Sprite
+  {
+    Hair:
+    Chest:
+    Leg:
+    Misc:
+  }
+  
+  Type: {Merchant,Quest,subQuest,GoalQuest,...}
+  
+  
+  //Health -1 = invincible, 0 = dead, 100 = 100%
+  Health: {-1,0, (1 < # < 100)}
+  HP: {#}
+  
+  
+  //Does NPC Walk
+  Move: {True,False}
+  Path: {MovementPath}
+  
+  Dialog
+  {
+    //Dialog Template
+  }
+  
+}
