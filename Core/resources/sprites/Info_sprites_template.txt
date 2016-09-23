@@ -1,0 +1,11 @@
+//Sprites Template
+
+
+Sprite
+{
+  Size: {#}
+  //Which Frame of the Sprite to use
+  Frame: {#}
+  //Which Animation Set
+  Mode: {walking,swimming,...}
+}
