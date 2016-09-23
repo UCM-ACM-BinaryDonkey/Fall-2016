@@ -15,3 +15,22 @@ This Source is Free to look at and learn from, But not Free to Distribute, use, 
 | **Term**  |  **Type** |  **Perspective** |  **Character** |
 |:-------:  |:--------: |:-------:         |:--------: |
 | Fall 2016 |   RPG     | Top Down         |    Chicken      |
+
+Looking at Creating a RPG about a Chicken named Chuck
+
+Details to come later
+
+##Roles
+Without Such We Would Have Been Nowhere
+
+|Leadership|Member|
+| :---------:  | :------: |
+| ACM VP       | Josiah   |
+
+
+
+These are the Volenteers for Head of Game Organization for Fall 2016
+
+|   **Elan**       | **Paul**     |  **Phillip** |          |          |          |          |
+| :---------:  | :------: | :------: | :------: | :------: | :------: | :------: |
+
