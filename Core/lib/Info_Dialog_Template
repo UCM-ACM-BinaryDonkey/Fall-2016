@@ -1,0 +1,22 @@
+//Dialog Template
+
+
+Dialog
+{
+  Greeting: {...}
+  
+  Line: {...}
+  MuteLine: {...}
+  Question: {...}
+  QuestStart: {...}
+  QuestFail: {...}
+  QuestComplete: {...}
+  
+  
+  Valediction: {...}
+
+  
+
+
+  IsMuted: {True,False}
+}
