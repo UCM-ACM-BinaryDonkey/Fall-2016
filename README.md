@@ -31,6 +31,6 @@ Without Such We Would Have Been Nowhere
 
 These are the Volenteers for Head of Game Organization for Fall 2016
 
-|   **Elan**       | **Paul**     |  **Phillip** |          |          |          |          |
+|   **Elan**       | **Paul**     |  **Phillip** |    **James**      |          |          |          |
 | :---------:  | :------: | :------: | :------: | :------: | :------: | :------: |
 
