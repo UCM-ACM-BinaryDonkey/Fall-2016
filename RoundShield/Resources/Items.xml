@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Items>
+  <Potion>
+    <ID>0</ID>
+    <Type>Healing</Type>
+    <Level>0</Level>
+    <Name>"Small Healing Potion"</Name>
+    <Sprite>Potion_red_Small</Sprite>
+    <Time>15</Time>
+    <Amount>25</Amount>
+  </Potion>
+  <Potion>
+    <ID>0</ID>
+    <Type>Healing</Type>
+    <Level>1</Level>
+    <Name>"Healing Potion"</Name>
+    <Sprite>Potion_red</Sprite>
+    <Time>17</Time>
+    <Amount>50</Amount>
+  </Potion>
+  <Potion>
+    <ID>0</ID>
+    <Type>Healing</Type>
+    <Level>2</Level>
+    <Name>"Large Healing Potion"</Name>
+    <Sprite>Potion_red_Large</Sprite>
+    <Time>25</Time>
+    <Amount>75</Amount>
+  </Potion>
+  <Potion>
+    <ID>0</ID>
+    <Type>Healing</Type>
+    <Level>3</Level>
+    <Name>"Exquisite Healing Potion"</Name>
+    <Sprite>Potion_shiny_Large</Sprite>
+    <Time>35</Time>
+    <Amount>100</Amount>
+  </Potion>
+  
+  <Weapon>
+    <ID>0</ID>
+    <Type>Sword</Type>
+    <Name>"Sword"</Name>
+  </Weapon>
+</Items>
+

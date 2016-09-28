@@ -26,9 +26,9 @@ namespace RoundShield {
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.DefaultSettingValueAttribute("0")]
-        public decimal ScreenX {
+        public int ScreenX {
             get {
-                return ((decimal)(this["ScreenX"]));
+                return ((int)(this["ScreenX"]));
             }
             set {
                 this["ScreenX"] = value;
@@ -38,9 +38,9 @@ namespace RoundShield {
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.DefaultSettingValueAttribute("0")]
-        public decimal ScreenY {
+        public int ScreenY {
             get {
-                return ((decimal)(this["ScreenY"]));
+                return ((int)(this["ScreenY"]));
             }
             set {
                 this["ScreenY"] = value;

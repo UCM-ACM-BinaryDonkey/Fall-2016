@@ -17,14 +17,6 @@ namespace rpg
             Turn,Free
         }
     }
-    //ALL NON ENEMY NPCS USE THIS CLASS
-    public class NPC
-    {
-        public NPC()
-        {
-            //Default Constructor
-        }
-    }
     //ALL TILES WILL USE THIS CLASS
     public class Tile
     {
@@ -35,10 +27,34 @@ namespace rpg
         }
 
     }
-    //Enemies will use this class
-    public class Mob
+    public class Item
     {
+        //Numeric ID Index
+        static int id = 0;
+        //Name of the Item
+        String name;
+        //Item Properties
 
+        
+        public Item()
+        {
+            name = " ";
+            id = id + 1;
+
+        }
+    }
+    //ALL NON ENEMY NPCS USE THIS CLASS
+    public class NPC
+    {
+        public NPC()
+        {
+            //Default Constructor
+        }
+    }
+    //All Stores use this
+    public class Store
+    {
+       
 
     }
 }

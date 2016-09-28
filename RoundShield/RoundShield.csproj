@@ -99,6 +99,11 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Engine.ico" />
+    <Content Include="Resources\Items.xml" />
+    <None Include="Resources\Mapbacktest.png" />
+    <None Include="Resources\Items.xsd">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="Resources\Tiles\TestTile_3.png" />
     <None Include="Resources\Tiles\TestTile_2.png" />
     <None Include="Resources\Tiles\TestTile.png" />
