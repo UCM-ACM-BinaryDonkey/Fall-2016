@@ -34,3 +34,4 @@ These are the Volenteers for Head of Game Organization for Fall 2016
 |   **Elan**       | **Paul**     |  **Phillip** |    **James**      |          |          |          |
 | :---------:  | :------: | :------: | :------: | :------: | :------: | :------: |
 
+Delta Branch is One Possible Outcome for the Beta Branch, It Holds What Ever Hasnt Quite bee Decided as a Group. But Rather is in the Ideas Catergory
