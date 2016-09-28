@@ -34,3 +34,7 @@ These are the Volenteers for Head of Game Organization for Fall 2016
 |   **Elan**       | **Paul**     |  **Phillip** |    **James**      |          |          |          |
 | :---------:  | :------: | :------: | :------: | :------: | :------: | :------: |
 
+
+
+This is the Beta Branch, The one We Work on As a Group, Its the One That Holds Everyones Views
+
