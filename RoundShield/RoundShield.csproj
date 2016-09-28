@@ -44,6 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Resources\rpg.cs" />
     <Compile Include="RS.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -57,7 +58,7 @@
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
       <DependentUpon>EngineSettings.settings</DependentUpon>
     </Compile>
-    <Compile Include="Resources\rpg_class.cs" />
+    <Compile Include="Resources\Chuck.cs" />
     <EmbeddedResource Include="RS.af.resx">
       <DependentUpon>RS.cs</DependentUpon>
     </EmbeddedResource>
@@ -98,9 +99,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Engine.ico" />
-    <None Include="Resources\TestTile_3.png" />
-    <None Include="Resources\TestTile_2.png" />
-    <None Include="Resources\TestTile.png" />
+    <None Include="Resources\Tiles\TestTile_3.png" />
+    <None Include="Resources\Tiles\TestTile_2.png" />
+    <None Include="Resources\Tiles\TestTile.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

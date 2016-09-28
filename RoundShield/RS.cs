@@ -7,19 +7,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+using chuck;
 
 namespace RoundShield
 {
-    static class Constants
-    {
-        public const bool Debug = true;
-    }
+    
     public partial class RS_MainWindow : Form
     {
         public RS_MainWindow()
         {
             InitializeComponent();
+        }
+        static class Constants
+        {
+            public const bool Debug = true;
         }
         private void Form1_Load(object sender, EventArgs e)
         {
@@ -40,10 +41,6 @@ namespace RoundShield
             }
         }
 
-        private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
-        {
-            //DO NOT DELETE THIS?
-        }
 
         private void toolStripMenuItem1_Click(object sender, EventArgs e)
         {
