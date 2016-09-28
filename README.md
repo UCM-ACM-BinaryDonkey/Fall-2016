@@ -34,3 +34,4 @@ These are the Volenteers for Head of Game Organization for Fall 2016
 |   **Elan**       | **Paul**     |  **Phillip** |          |          |          |          |
 | :---------:  | :------: | :------: | :------: | :------: | :------: | :------: |
 
+The Master Branch is For The Finished Products That Have been finilized and Put into the game never to be removed
