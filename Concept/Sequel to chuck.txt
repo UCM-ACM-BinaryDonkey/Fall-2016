@@ -1,51 +1,11 @@
-STORY:
-   o	Main Character: Clucky the Chicken 
-  o	Fox: first boss, Fox(main rival) will help the chicken at later points of the story
-  o	Main bad guy
-  o	Hulk-out ability?
-  o	Fantasy animal kingdom:
-  o	Farm is “one village” 
-  o	Family owned farm. Main boss is trying to buy it out. Farmer’s goal is to stop it from taking over the farm (kingdom). He gets turned into a chicken.
-  o	Goes to kingdom to recruit allies from each respective kingdom to assemble his army consisting of different animals5 main kingdoms. Each kingdom has its own distinct environment (oceans, mountains, etc.)
-  o	One kingdom is an amusement park – use the animal allies to go and destroy the park. Bosses are the items of the amusement park(like roller coasters). Rides can morph and combine into one boss fight. Different than any boss in the game. 
 
-  Kingdoms:
-  Farm Kingdom
-    o	Pig(king of the farm)
-    o	Amusement park threatens the farm.
-    o	Wise-Old Goat
-  Forest Kingdom
-    o Deforestation from Amusement Park
-    o	Turkey (rulers)
-    o	Deers, Foxes, Rabbits(subjects)
-  Pond Kingdom
-   o	Water pollution for Amusement park
-   o	Frog(ruler)
-   o	Fish(subjects)
-  Mountains Kingdom
-  o	Bear- Godfather personality, Queen Bear, princess wedding(ruler)
-  o Birds (subjects)
-  o	Spiders, Bats(Cave animals)
-  o	Caves/Dungeons
-  o	Civil war between Caves (Caves hate the park. Mountains support them). 
-  o	Resolve the fight. Convince the mountains that the park is bad. 
-  Sky Kingdom? 
-  Final Kingdom: Amusement Park
-
-
-  Optional Quests:
-  o	Mother Hen Quest: Collect eggs to exchange for upgrades
-  o	Help some animals to gain their favor to join in the fight.  More allies makes boss fights easier. 
-  o	Pick a side in the Civil War between Caves and Mountain. Gives a different bonus based on choice and result. 
-  o	Rooster Quest: Collect feathers to get Health bonus
-  o	Desert Kingdom(Side Quest) – Enter from the Mountains kingdom
-    a.	Loot Treasures(Tomb puzzles)
-    b.	Fight Poisonous Scorpions
-    c.	Dinosaurs 
-    d.	Poisonous Snakes
-    e.	Gain powerful items(armor or weapons) after defeating each boss.
-  o	Romance Options…….
-  
+  ==============================================================================================================================================================================================
+  ==============================================================================================================================================================================================
+  Change This to be the Story of Chuck 2?
+  Chuck is sold to another farm in a distant land
+  Starts Here with new clans and new characters to meet?
+  ==============================================================================================================================================================================================
+  ==============================================================================================================================================================================================
   
   
   Potential Larger Story:
@@ -276,5 +236,3 @@ STORY:
     b. Ash from Hot Talon Peaks
     c. Fruit of the Blue Spine-Tree
     d. Magic that is considered blasphemous every since the Great Prophecy.
-    
-   

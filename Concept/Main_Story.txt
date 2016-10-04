@@ -1,0 +1,223 @@
+Main Protagonist: Chuck the Chicken
+Main Antagonist: Corporation ("Andalona Land Holdings") 
+    -They Buy and Sell Land to Greedy Corps
+    -The Farm is to be used as an expansion to one of the amusment parks using Andalona as a way to buy it
+Main Start:
+    0)Farmer is Chuck, Turned into a Chicken
+    0)Chuck is a Chicken on the Farm Trying to Defend it From the Humans Trying to hurt the Farmer
+
+Main Story Goal:
+    Go and Recruit Allies from other "kingdoms" to assemble an army consisting of different animals.
+    Destroy/Cause the Park to be shut down
+OverArching Items:
+    1) Mother Hen Quest 
+        -Gather Eggs to trade at farm for Unique and Fun Upgrades
+    2) Are you with me? Or Just a Chicken?
+        -Gather Allies by gaining thier favor.
+            - Some Will Party With You
+                =Compaions
+            -Some Will Meet You at Amusment Park
+    3)Civil War
+        -You Will Hear about the civil war from the very begining with the wise goat. as he sends you on your way.
+        -You can Pick a Side, Or get Both Sides to work together
+        -Or Skip Both
+    4)Rooster Quest
+        -Collect Feathers for Health Bonuses
+
+CheckPoints:
+    Kingdom Based Checks:
+        Farm:
+            -Pig is King of the Farm
+            -Amusement Park Threatens the Farm
+            -Wise Old Goat Sends the Chicken on the Journey
+            Questline:
+                -Tutorial
+                -Starting of the Adventure
+            Side Quests:
+                -
+            Tiles:
+            Population:
+                -Cow
+                -Chickens
+                -Pigs
+                -Horses
+                -Sheep
+        Forest:
+            -Turkey Rulers (Council of a few)
+            -Dealing with Deforestation due to expanse and selling of forest by Andalona
+            Questline:
+                Convince Council of Passifist Turkeys to rise
+            Side Quests:
+                -
+            Tiles:
+            Population:
+                -Deer
+                -Fox
+                -Rabbits
+                -Squirels
+                -Turkey
+                -Racoons
+        Pond: (Lake instead?)
+            -Frogs Rule Here
+            -Water Polution From Vairous Parts of Building and Moving Machines around. Trash Everywhere
+            Questline:
+                -
+            Side Quests:
+                -
+            Tiles:
+                -
+            Population:
+                -Frogs
+                -Fish
+                -Turtles
+                -Duck (Live on Shore Near)
+                -crayfish
+        Mountains:
+            -Bear Rules
+                *God Father Personality, Queen Bear, Princess Wedding
+            -Civil War Between Mountians and Surrounding Caves
+            -Mountians Dont Care About the Expansions as it does not effect them negativly
+                -Thier involvment would cause them no beinift but have negative concequences
+            QuestLine:
+                -Deal with Civil War, Get Support From Either Side or Both.
+            Side Quests:
+                -
+            Tiles:
+                -
+            Population:
+                -Bears
+                -Hawks
+                -elk,moose
+                -Mountain Goats
+        Caves:
+            -Governed by Bear
+            -They are in the surronding area in and around the Mountains
+            -Civil War Started Long ago, no idea why
+
+            QuestLine:
+                -Civil War
+            Side Quests:
+                -
+            Tiles:
+                -
+            Population:
+                -Bears
+                -Bats
+                -Wolves
+        Desert:
+            -No Governing System Like Other Areas.
+            -Side Area NO PRIORITY (Possibly a Ending Project)
+            -From Cave in the mountains that leaves on the other side of the main area
+            Questline:
+                -n/a
+            Side Quests:
+                -
+            Tiles:
+                -
+            Population:
+                -Rattle Snake
+                -Camel
+                -Vulture
+                -Turtles
+        Amusment Park:
+            -Run by Various Rat Families
+            QuestLine:
+                -Find Ways to Stop The Rides from Working
+                -Stop Rats from Stopping You
+            Side Quests:
+                -Deal with Fried Chicken Stands (0/20)
+                -Deal With All Rat Families
+            Tiles:
+                -Pavement
+                -Parking Lot
+                -Rides:
+                    -Roller Coaster
+                    -Go Karts
+            Population:
+                -Rats
+    Ability Based Checks:
+        -Each Kingdom Gives you an Unique Ability to Use to Move Forward to the next Area
+        ==========================
+        Section 1:
+            -Farm
+            -Forest
+            -Pond
+        ==========================
+            Farm:
+                -Pre:
+                    -NONE
+                -Goat Teaches you how to use your Head.
+                    -Move: "Ram"
+                -You Break out of the Fence to Start Your Journey Through the Forest
+            Forest:
+                -Pre:
+                    -NONE
+                - You can Explore the Forest or start to follow the path towards the Bridge
+                - Bridge is Broken
+                    (Andalona Wont fix it to try and force farmers hand in selling)
+                -Pond Nearby
+                -Forest Teaches you How to See In very Dark Places
+                    -Move: Night Eyes
+                        =Allows you to travel into caves effectivly
+            Pond:
+                -Pre:
+                    -NONE
+                -You Learn How to Swim Effectivly
+                    -Move: Water Wings
+                -Lets You Pass Broken Bridge by Swiming Through the River
+        
+        
+        -Past The River Is Section 2 of the Map
+        -River Kinda Divides the Land
+        ===========================
+        Section 2:
+            Mountains:
+            Caves:
+            ________:
+        ===========================
+            Mountains:
+                Pre:
+                    -Ram
+                        To Pass Some Rocks
+                -You Start Civil War SubQuests
+            Caves:
+                Pre:
+                    -Night Eyes
+                -Without Seeing in the Dark, You can essentially lock yourself to choosing the mountains
+                -Since You cant find the isolated Cave Societies
+                -Civil War Sub Quests
+            ??????: (Could use another zone maybe?)
+                Pre:
+                    -??????
+        
+        
+        ===========================
+        Section 3:
+            Amusment Park:
+        ===========================
+        
+
+
+
+
+
+
+
+
+        -Section 4 Is Add-on
+        -Does Not Pertain to Main Questlines
+        ===========================
+        Section 4:
+            Desert:
+            Base of Operations:
+        ===========================
+            Desert:
+                Pre:
+                    Move: Night Eyes
+                    -Since you use caves to get Here
+            Base of Operations:
+                Pre:
+                    -Finish Game
+                -Unlocks a place at the farm to make your own dungeons.
+                -Essentially a map maker. animals from the kingdoms are there it looks like a secret animal Base
+                    -they protect the animals of the kingdoms from other companies like andalona
