@@ -1,2 +1,0 @@
-Core Includes All Game Files and Nessasary Items to compile the game
-Everything in this folder Was created By the Fall 2016 using the _________ Game Engine

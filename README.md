@@ -36,5 +36,5 @@ These are the Volenteers for Head of Game Organization for Fall 2016
 
 
 
-This is the Beta Branch, The one We Work on As a Group, Its the One That Holds Everyones Views
+Note To Contributors: Use Only TXT Documents NOT WORD
 
