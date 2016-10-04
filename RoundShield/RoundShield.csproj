@@ -100,6 +100,15 @@
   <ItemGroup>
     <Content Include="Engine.ico" />
     <Content Include="Resources\Items.xml" />
+    <None Include="Resources\Tiles\Ground\Water.png" />
+    <None Include="Resources\Tiles\Ground\Path1.png" />
+    <None Include="Resources\Tiles\Ground\Groun2.png" />
+    <None Include="Resources\Tiles\Ground\GrassTile1.png" />
+    <None Include="Resources\Tiles\Ground\Grass.png" />
+    <None Include="Resources\Tiles\Ground\FlowerTile1.png" />
+    <None Include="Resources\TestTile_3.png" />
+    <None Include="Resources\TestTile_2.png" />
+    <None Include="Resources\TestTile.png" />
     <None Include="Resources\Mapbacktest.png" />
     <None Include="Resources\Items.xsd">
       <SubType>Designer</SubType>
