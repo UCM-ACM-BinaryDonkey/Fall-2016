@@ -111,9 +111,9 @@ CheckPoints:
             Questline:
                 -n/a
             Side Quests:
-                -
+                -see side quest board
             Tiles:
-                -
+                -Cactus tile hurts you
             Population:
                 -Rattle Snake
                 -Camel
