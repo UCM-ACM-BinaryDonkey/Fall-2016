@@ -1,4 +1,5 @@
 //Skills
+through normal story line you get warrior skills: power attack, cleave, etc., however through side quests you can get spells: fireball, lightning bolt, ice shard
 
 //Start Template:
 
