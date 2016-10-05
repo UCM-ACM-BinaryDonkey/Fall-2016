@@ -3,8 +3,7 @@ Main Antagonist: Corporation ("Andalona Land Holdings")
     -They Buy and Sell Land to Greedy Corps
     -The Farm is to be used as an expansion to one of the amusment parks using Andalona as a way to buy it
 Main Start:
-    0)Farmer is Chuck, Turned into a Chicken
-    0)Chuck is a Chicken on the Farm Trying to Defend it From the Humans Trying to hurt the Farmer
+    1) Chuck is a Chicken on the Farm Trying to Defend it From the Humans Trying to hurt the Farmer. Protect the bond he has with the           Farmer.
 
 Main Story Goal:
     Go and Recruit Allies from other "kingdoms" to assemble an army consisting of different animals.
@@ -56,7 +55,7 @@ CheckPoints:
                 -Rabbits
                 -Squirels
                 -Turkey
-                -Racoons
+                -Racoons  (Trash Bandit)
         Pond: (Lake instead?)
             -Frogs Rule Here
             -Water Polution From Vairous Parts of Building and Moving Machines around. Trash Everywhere
@@ -72,6 +71,7 @@ CheckPoints:
                 -Turtles
                 -Duck (Live on Shore Near)
                 -crayfish
+                - Sea Urchin
         Mountains:
             -Bear Rules
                 *God Father Personality, Queen Bear, Princess Wedding
@@ -89,6 +89,7 @@ CheckPoints:
                 -Hawks
                 -elk,moose
                 -Mountain Goats
+                -Cougars (Mountain Lions, Pumas)
         Caves:
             -Governed by Bear
             -They are in the surronding area in and around the Mountains
@@ -124,6 +125,7 @@ CheckPoints:
             QuestLine:
                 -Find Ways to Stop The Rides from Working
                 -Stop Rats from Stopping You
+                - Break the terrain
             Side Quests:
                 -Deal with Fried Chicken Stands (0/20)
                 -Deal With All Rat Families
