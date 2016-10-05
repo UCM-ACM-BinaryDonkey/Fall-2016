@@ -11,7 +11,7 @@
     <Amount>25</Amount>
   </Potion>
   <Potion>
-    <ID>0</ID>
+    <ID>1</ID>
     <Type>Healing</Type>
     <Level>1</Level>
     <Name>"Healing Potion"</Name>
@@ -20,7 +20,7 @@
     <Amount>50</Amount>
   </Potion>
   <Potion>
-    <ID>0</ID>
+    <ID>2</ID>
     <Type>Healing</Type>
     <Level>2</Level>
     <Name>"Large Healing Potion"</Name>
@@ -29,7 +29,7 @@
     <Amount>75</Amount>
   </Potion>
   <Potion>
-    <ID>0</ID>
+    <ID>3</ID>
     <Type>Healing</Type>
     <Level>3</Level>
     <Name>"Exquisite Healing Potion"</Name>
@@ -39,7 +39,7 @@
   </Potion>
   
   <Weapon>
-    <ID>0</ID>
+    <ID>4</ID><!-- this ID is temporary. be sure to change it if more potions are added--> 
     <Type>Sword</Type>
     <Name>"Sword"</Name>
   </Weapon>
