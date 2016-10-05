@@ -43,5 +43,15 @@
     <Type>Sword</Type>
     <Name>"Sword"</Name>
   </Weapon>
+   <Weapon>
+    <ID>5</ID><!-- this ID is temporary. be sure to change it if more potions are added--> 
+    <Type>axe</Type>
+    <Name>"Axe"</Name>
+      <Weapon>
+    <ID>6</ID><!-- this ID is temporary. be sure to change it if more potions are added--> 
+    <Type>axe</Type>
+    <Name>"Battleaxe"</Name>
+  </Weapon>
+  </Weapon>
 </Items>
 
