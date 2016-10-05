@@ -1,28 +1,38 @@
 Side Quest Ideas:
 
 The golden 6-piece(collectable quests) 
-Collect "Davin" Songs (davin as party slot)
+Collect "Davin" Songs (davin as party slot or unlock developer party slot)
 Davin party member (island circles map(cinnamon roll shaped) with daven at the center) 
 Make peace in the mountain kingdom
 Optional Quest (Destroy McDonalds) (Can't Do Brand Name)
 Hunting contracts - (Kill a certain animal requested by NPC's to gain XP and item rewards) - maybe 20 - 25 contracts in the game
 Haunted farmhouse - (crack the mystery of the haunted house located in the pond kingdom)
-Theft missions -(Infiltrate and steal money from the amusement park, stealthily to weaken their resources).
+Theft missions -(Infiltrate and steal money from the amusement park, stealthily to weaken their resources(weakens final battle)).
 Wise-Old Goat quests(complete a set of quests from the old goat character to raise your "intelligence" skills after each succesful quest) - maybe 5 overall quests
 Slaughter house rescue - Animals are being sent to the slaughter house to be killed. Help them escape(Horses,Pigs,Goats,etc.).
-Murder mysteries: Someone has been going around killing animals around the various kingdoms. Use clues from the crime scenes to catch the murderer.
+    Butcher as dungeon boss
+*Murder mysteries: Someone has been going around killing animals around the various kingdoms. Use clues from the crime scenes to catch the murderer.
+    Huntsman boss
 Races(compete in races against fellow farm animals) maybe 2 races per kingdom.
-Desert Kingdom(See Storyboard)
+    if all races completed: increase in attack speed
+Desert Kingdom(See Storyboard):
+    -desert temples with puzzles for rare loot
+    -"the mad king": old crazy hyena thinks he's king (you somehow go into his delusion and see a great desert kingdom, but when a             dragon threatens the kingdom you have to convince him he's crazy to end his delusion)
+    -escort someone through the desert
 Mother Hen quests: collect eggs to exchange for upgrades.
-King Turkey missions(name will be changed later) - Protect the Rabbits, Foxes, and Deers from the hunters in the Forest Kingdom
+*King Turkey missions(name will be changed later) - Protect the Rabbits, Foxes, and Deers from the hunters in the Forest Kingdom
 Princess Bear missions(name will be changed later) - Do various fetch quests to retrieve items for the princess bear. 
 Rooster Quests: Collect feathers and return them to the rooster. Can exchange feathers for HP.
 Fight Club: Compete in a fighting match against the bears. Gain XP and a random item for each victory.
+    not just bears, maybe have a few fights in each kingdom
 The Dissaperance of Animals: The Elder goat is concerned that animals have been getting kidnapped in the middle of the night. Talk to the goat, ambush the kidnapper in the middle of the night and free the animals.
+    wolf boss
 Training animals: Go to the training hall and train the animals to prepare them for the big fight(1 training hall per kingdom) gain XP.
+    instead of gaining xp: make final world easier(stronger allies means less you have to do)
 Sky Kingdom: Find the ancient sky bird relic to be teloported to the sky kingdom - a kingdom located on top of the clouds.
 Sky God quests: Help the sky god win back as his people and put a stop to the civil unrest in the sky realm. 10 missions overall
 Queen Funeral: The queen of the mountain kingdom has passed away. Help the King Bear and princess notify the subjects and make preparations for the funeral.
-Pigs gone mad - Gather rare ingridents  to help the pig create a dangerous potion.
+Pigs gone mad - Gather rare ingridents  to help the pig create a (plot twist: dangerous/evil) potion.
+
 
 
