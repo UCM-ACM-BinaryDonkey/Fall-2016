@@ -1,0 +1,171 @@
+Here are the items that will be used by the Player. The stats/levels needed are placeholders, feel free to change them and add newer items on the list
+
+Sea Urchin(Throwable/Consumable):
+  ATK: 5(When Thrown)
+  HP: Restores 15(When Consumed)
+  
+Basic Health Potion
+  HP Restored by 10
+  
+Super Health Potion
+  HP restored by 30
+  
+ Mega Health Potion
+  HP restored by 30 for each party member
+  
+ Basic Stamina Potion
+  Restores Stamina by 10 points
+  
+  Super Stamina Potion
+    Restores Stamina by 30 points
+   
+   Mega Stamina Potion
+    restores stamina by 50 points
+    
+   Clucky boots
+    raises speed/agility by 5 points
+    
+    Farm Steriods
+      Raises atk by 15 points for  1 minute. Item has a cooldown of 5 minutes
+     
+     Hawk Tonic
+      Raises speed by 25 points for a limit of 90 seconds
+      
+     Bearskin Shield
+     When Equipped: DEF  + 30
+     Level Required: 5
+     
+     Breastplate Armor
+     When Equipped: DEF +10
+     Level Required: 1
+     
+     Chicken Trousers
+     When Equipped: DEF +5
+     Level Required: 1
+     
+     King Bear Trousers
+     When Equipped: DEF +20
+     Level Required: 10
+     
+     Hunter Boots
+     When Equipped: DEF +15
+     Level Needed: 5
+     
+     Helmet of Davin
+     When Equipped: DEF +15
+     Level Needed: 5
+     
+     Cape of Davin
+     When Equipped: Agility +5
+     Level Needed: 1
+     
+     Davin's Chest Plate
+     When Equipped: DEF +30
+     Level Needed: 15
+     
+     Hunter's Trousers
+     When Equipped: DEF +15
+     Level Needed: 5
+     
+     Hunter's Gloves
+     When Equipped: DEF +10
+     Level Needed: 5
+     
+     Hunters Pistol
+     When Equipped: ATK +35
+     Level Needed: 15
+     
+     Bullets x20
+     Ammunition needed for pistols
+     
+     Hunter's Bow and Arrow
+     When Equipped ATK + 15
+     level Needed: 10
+     
+     Arrows *15
+     Ammunition needed for Bows
+     
+     Sword of Excalibur
+     When Equipped: ATK +40
+     Level Needed: 20
+     
+     Sword of Davin
+     When Equipped: ATK +30
+     Level Needed: 15
+     
+     Throwing Knives
+     When Equipped: ATK +5
+     Level Needed: 1
+     
+     Armor of Obilisk
+     When Equipped: DEF +50
+     Level Needed: 30
+     
+     Dagger of Obilisk
+     When Equipped: ATK +45
+     Level Needed: 25
+     
+     Trousers of Obilisk
+     When Equipped: DEF +20
+     Level Needed: 25
+     
+     Gloves of Obilisk
+     When Equipped: DEF +20
+     Level Needed: 25
+     
+     Flame Sword
+     When Equipped: ATK +35
+     Level Needed: 15
+     
+     Skeleton Shield
+     When Equipped: DEF +15
+     Level Needed: 15
+     
+     Sword of ET(Only found in the desert kingdom tomb)
+     When Equipped: ATK+ 100
+     Level Needed: 50
+     
+     Sword of Josiah
+     When Equipped: Atk +60
+     Level Needed: 45
+     
+     Armor of ET(Only found in the desert kingdom tomb)
+     When Equipped: DEF:75
+     Level Needed: 60
+     
+     Relic of ET(Found in the Desert Kingdom tombs)
+     Increases all stats by 35
+     
+     Armor of Josiah
+     When Equipped: DEF +50
+     Level Needed: 35
+     
+     Mage's Wand
+     When Equipped: DEF +50
+     Level Needed: 5
+     
+     Mage's Armor
+     When Equipped: DEF +25
+     Level Needed: 5
+     
+     Mage's Boots
+     When Equipped: DEF +25
+     Level Needed: 5
+     
+     Mage's Gloves
+     When Equipped: DEF +25
+     Level Needed: 5
+     
+     Bearskin boots
+     When Equipped: DEF +5
+     Level Needed: 1
+     
+     Fishbowl Helmet
+     When Equipped: DEF +45
+     Level Needed: 25
+     
+     Brain Food
+     Increases Dextirity by 5
+     
+     
+     
