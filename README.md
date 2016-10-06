@@ -27,14 +27,5 @@ Without Such We Would Have Been Nowhere
 | :---------:  | :------: |
 | ACM VP       | Josiah   |
 
-
-
-These are the Volenteers for Head of Game Organization for Fall 2016
-
-|   **Elan**       | **Paul**     |  **Phillip** |    **James**      |          |          |          |
-| :---------:  | :------: | :------: | :------: | :------: | :------: | :------: |
-
-
-
 Note To Contributors: Use Only TXT Documents NOT WORD
-
+Note to Contributors: Use .png files for Tiles
