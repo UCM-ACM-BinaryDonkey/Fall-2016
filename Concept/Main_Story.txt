@@ -41,8 +41,11 @@ CheckPoints:
                 -Pigs
                 -Horses
                 -Sheep
-        Forest:
-            -Turkey Rulers (Council of a few)
+        Forest: (split into a few smaller forest kingdoms)
+            The Three
+                -Turkey Rulers (Council of a few)
+                -Racoon Rulers (top dog is richest) (bandit type town)
+                -Deer Rulers (noble style, think high elves)
             -Dealing with Deforestation due to expanse and selling of forest by Andalona
             Questline:
                 Convince Council of Passifist Turkeys to rise
@@ -50,15 +53,16 @@ CheckPoints:
                 -
             Tiles:
             Population:
-                -Deer
+                -Deer*
                 -Fox
                 -Rabbits
                 -Squirels
-                -Turkey
-                -Racoons  (Trash Bandit)
-        Pond: (Lake instead?)
+                -Turkey*
+                -Racoons*
+        Lake:
             -Frogs Rule Here
             -Water Polution From Vairous Parts of Building and Moving Machines around. Trash Everywhere
+            -Fish Used to rule, but were mostly wiped out due to polution and a fish epidemic
             Questline:
                 -
             Side Quests:
@@ -112,7 +116,7 @@ CheckPoints:
             Questline:
                 -n/a
             Side Quests:
-                -see side quest board
+                -
             Tiles:
                 -Cactus tile hurts you
             Population:
