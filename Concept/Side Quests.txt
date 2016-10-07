@@ -17,7 +17,8 @@ Races(compete in races against fellow farm animals) maybe 2 races per kingdom.
     if all races completed: increase in attack speed
 Desert Kingdom(See Storyboard):
     -desert temples with puzzles for rare loot
-    -"the mad king": old crazy hyena thinks he's king (you somehow go into his delusion and see a great desert kingdom, but when a             dragon threatens the kingdom you have to convince him he's crazy to end his delusion)
+    -"the mad king": old crazy hyena thinks he's king (you somehow go into his delusion and see a great desert kingdom, but when a
+    dragon threatens the kingdom you have to convince him he's crazy to end his delusion)
     -escort someone through the desert
 Mother Hen quests: collect eggs to exchange for upgrades.
 *King Turkey missions(name will be changed later) - Protect the Rabbits, Foxes, and Deers from the hunters in the Forest Kingdom
